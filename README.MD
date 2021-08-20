@@ -29,7 +29,7 @@
 - Framework
   - Spring, Mabatis, Maven
 - Library
-  - Bootstrap, ScribeJava, Coolsms, Spring-Security, Jackson, jQuery, RSA(jsbn, prng4, rng, rsa)
+  - Bootstrap, SockJS, ScribeJava, Coolsms, Spring-Security, Jackson, jQuery, RSA(jsbn, prng4, rng, rsa)
 - API
   - Open Weather, 카카오맵, Oauth(카카오/구글/페이스북/네이버), 네이버 지도/검색
   - SweetAlert, 한국관광공사_국문 관광정보서비스
